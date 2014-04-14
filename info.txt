@@ -1,1 +1,2 @@
 Test Information. This file has been modifed as an example to resolve merge conflicts.
+Modified the file for new changes.
