@@ -1,2 +1,0 @@
-This is a demo file. Appending a fix for the bug.
-Testcase failed. Please recheck.
